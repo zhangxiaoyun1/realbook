@@ -1,0 +1,23 @@
+{
+  "name": "realbook",
+  "version": "1.0.0",
+  "description": "王炎的真实属性",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxiaoyun1/realbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxiaoyun1/realbook/issues"
+  },
+  "homepage": "https://github.com/zhangxiaoyun1/realbook#readme",
+  "devDependencies": {
+    "gitbook": "^2.6.9"
+  }
+}
