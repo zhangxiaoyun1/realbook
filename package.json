@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/zhangxiaoyun1/realbook#readme",
   "devDependencies": {
-    "gitbook": "^2.6.9"
+    "gitbook-cli": "^2.3.2"
   }
 }
